@@ -1,8 +1,17 @@
 # PolicyCraft AI: National Wellbeing Diagnostics & Policy Simulator
 
-[![PolicyCraft AI Demo Video](https://img.youtube.com/vi/dS8r0vfioDQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dS8r0vfioDQ "Watch the PolicyCraft AI Demo")
+<h2 align="center">🎥 Demo & Live App</h2>
 
-[**Live App Demo**](https://62203392-63d1-4e7f-9ad8-39e7a2549200.plotly.app)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dS8r0vfioDQ" title="Watch the PolicyCraft AI Demo">
+    <img src="https://img.youtube.com/vi/dS8r0vfioDQ/maxresdefault.jpg" alt="PolicyCraft AI Demo Video" width="80%">
+  </a>
+</p>
+
+<p align="center">
+  👉 <a href="https://62203392-63d1-4e7f-9ad8-39e7a2549200.plotly.app"><b>Live App Demo</b></a><br>
+  Explore the full interactive dashboard and policy simulator.
+</p>
 
 ## Inspiration: Beyond the Static Dashboard
 
