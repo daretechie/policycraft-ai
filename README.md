@@ -1,5 +1,9 @@
 # PolicyCraft AI: National Wellbeing Diagnostics & Policy Simulator
 
+[![PolicyCraft AI Demo Video](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=dS8r0vfioDQ "Watch the PolicyCraft AI Demo")
+
+[**Live App Demo**](https://62203392-63d1-4e7f-9ad8-39e7a2549200.plotly.app)
+
 ## Inspiration: Beyond the Static Dashboard
 
 The world is awash in data, yet true understanding remains elusive. When I first explored the OECD’s _Better Life Index_ dataset, I saw a familiar challenge: valuable information trapped in tables and static charts. Traditional dashboards can show _what_ is happening, but they rarely explain _why_ or explore _what could be_.
